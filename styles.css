@@ -1,3 +1,13 @@
-.selccion label{
-display: block;    
+.ft{
+    background: #000;
+    margin-top: 25px;
+    color: aliceblue;
+}
+
+.ft div{
+    padding-left: 20px;
+}
+
+.ft div p{
+    font-size: 12px;
 }
