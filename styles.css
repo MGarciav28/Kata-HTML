@@ -11,3 +11,14 @@
 .ft div p{
     font-size: 12px;
 }
+
+.logo{
+    width: 40px;
+}
+
+.cabecera{
+    padding-top: 150px;
+    height: 500px;
+    background:url(img/pastel.jpg);
+    background-size: cover;
+}
